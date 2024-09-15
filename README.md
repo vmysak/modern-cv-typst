@@ -72,6 +72,11 @@
     ./target/$TYPST_CV_NAME.pdf
     ```
 
+- #### PDF to JPEG
+    ```bash
+    pdftoppm -jpeg -r 300 ./target/CV_John_Doe_1.pdf ./target CV_John_Doe_1
+    ```
+
 ## Troubleshooting
 
 ### Fonts
