@@ -16,6 +16,9 @@
 - ```/src/my-cv.typ``` - CV body file
 - ```/target/*.pdf``` - CV pdf file
 
+### Samples
+<img src="https://github.com/user-attachments/assets/b69cd33d-0fd4-4f67-a771-a19b70619439" width="30%"></img> <img src="https://github.com/user-attachments/assets/19f5f0cd-63f9-42b9-b187-348772b162a5" width="30%"></img> <img src="https://github.com/user-attachments/assets/af15dc3e-4dba-4eac-854d-37aa89fc1310" width="30%"></img> 
+
 ## Usage
 
 ### Docker Build
